@@ -10,17 +10,25 @@ Ce module est destiné à être assemblé par la communauté à partir des fichi
 ________________________________________
 Caractéristiques principales
 •	4 LEDs APA106 (24 bits par LED)
+
 •	Alimentation 5VDC
+
 •	Compatible protocole WS2812B
+
 •	Connecteurs JST 3 broches entrée/sortie
+
 •	Chaînage possible
+
 •	PCB FR4 1.6 mm
+
 •	Format optimisé pour faces avant
 ________________________________________
 Compatibilité logicielle
 Compatible avec la majorité des bibliothèques Arduino WS2812B :
 •	FastLED
+
 •	Adafruit NeoPixel
+
 •	Autres bibliothèques WS2812B
 ________________________________________
 Attention – Niveau logique
