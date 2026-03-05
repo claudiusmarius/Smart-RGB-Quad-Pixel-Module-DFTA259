@@ -30,9 +30,13 @@ SN74AHCT125
 ________________________________________
 Contenu du dépôt
 •	Fichier Gerber
+
 •	Schémas
+
 •	BOM (liste composants)
+
 •	Fiche technique PDF
+
 •	Exemple de code (ATtiny85 / Seeeduino XIAO)
 ________________________________________
 Licence
