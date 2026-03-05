@@ -9,6 +9,7 @@ Elle utilise 4 LEDs APA106 traversantes (5 mm) espacées de 18 mm, avec connecti
 Ce module est destiné à être assemblé par la communauté à partir des fichiers fournis.
 ________________________________________
 Caractéristiques principales
+
 •	4 LEDs APA106 (24 bits par LED)
 
 •	Alimentation 5VDC
@@ -25,6 +26,7 @@ Caractéristiques principales
 ________________________________________
 Compatibilité logicielle
 Compatible avec la majorité des bibliothèques Arduino WS2812B :
+
 •	FastLED
 
 •	Adafruit NeoPixel
@@ -33,10 +35,11 @@ Compatible avec la majorité des bibliothèques Arduino WS2812B :
 ________________________________________
 Attention – Niveau logique
 La ligne DATA doit impérativement être en 5V.
-Pour les microcontrôleurs en 3.3V (ESP32, Seeeduino XIAO, etc.), utiliser un convertisseur de niveau logique type :
+Pour les microcontrôleurs en 3.3V (ESP32, Seeeduino XIAO, etc.), utiliser par exemple un convertisseur de niveau logique type :
 SN74AHCT125
 ________________________________________
 Contenu du dépôt
+
 •	Fichier Gerber
 
 •	Schémas
