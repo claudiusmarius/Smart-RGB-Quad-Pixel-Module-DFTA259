@@ -2,7 +2,8 @@
 
 DFTA259-4RGB-5V
 Barrette LED RGB 4x APA106 – 5V – Chaînable
-Présentation
+
+ 
 DFTA259-4RGB-5V est une barrette LED RGB adressable conçue pour une intégration propre en face avant de projets électroniques.
 Elle utilise 4 LEDs APA106 traversantes (5 mm) espacées de 18 mm, avec connectique JST 3 broches permettant le chaînage.
 Ce module est destiné à être assemblé par la communauté à partir des fichiers fournis.
